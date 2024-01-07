@@ -5,8 +5,12 @@
  * Description: print alphabet
  * Return: Always return 0 to indicate success
  */
-int main(void)
+void print_alphabet(void)
 {
 	printf("abcdefghijklmnopqrstuvwxyz\n");
+}
+int main(void)
+{
+	print_alphabet();
 	return (0);
 }
