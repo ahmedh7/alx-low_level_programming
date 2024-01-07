@@ -1,3 +1,1 @@
-/*TODO
- * 
- */
+void print_alphabet(void);
